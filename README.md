@@ -1,144 +1,57 @@
 **rooAngel** |**rooAngel2** |**rooAww**
 --- | --- | --- 
-![rooAngel][rooAngel] |![rooAngel2][rooAngel2] |![rooAww][rooAww]
+<img src="roo's/rooAngel.png" width="128" height="128"> |<img src="roo's/rooAngel2.png" width="128" height="128"> |<img src="roo's/rooAww.png" width="128" height="128">
 **rooAwwMas** |**rooBlank** |**rooBlind**
-![rooAwwMas][rooAwwMas] |![rooBlank][rooBlank] |![rooBlind][rooBlind]
+<img src="roo's/rooAwwMas.png" width="128" height="128"> |<img src="roo's/rooBlank.png" width="128" height="128"> |<img src="roo's/rooBlind.png" width="128" height="128">
 **rooBlindMas** |**rooBot** |**rooBully**
-![rooBlindMas][rooBlindMas] |![rooBot][rooBot] |![rooBully][rooBully]
+<img src="roo's/rooBlindMas.png" width="128" height="128"> |<img src="roo's/rooBot.png" width="128" height="128"> |<img src="roo's/rooBully.png" width="128" height="128">
 **rooBye** |**rooComfy** |**rooConductor**
-![rooBye][rooBye] |![rooComfy][rooComfy] |![rooConductor][rooConductor]
+<img src="roo's/rooBye.png" width="128" height="128"> |<img src="roo's/rooComfy.png" width="128" height="128"> |<img src="roo's/rooConductor.png" width="128" height="128">
 **rooCookieMas** |**rooCool** |**rooCoolPopcorn**
-![rooCookieMas][rooCookieMas] |![rooCool][rooCool] |![rooCoolPopcorn][rooCoolPopcorn]
+<img src="roo's/rooCookieMas.png" width="128" height="128"> |<img src="roo's/rooCool.png" width="128" height="128"> |<img src="roo's/rooCoolPopcorn.png" width="128" height="128">
 **rooCop** |**rooCry** |**rooDab**
-![rooCop][rooCop] |![rooCry][rooCry] |![rooDab][rooDab]
+<img src="roo's/rooCop.png" width="128" height="128"> |<img src="roo's/rooCry.png" width="128" height="128"> |<img src="roo's/rooDab.png" width="128" height="128">
 **rooDerp** |**rooDerpMas** |**rooDevil**
-![rooDerp][rooDerp] |![rooDerpMas][rooDerpMas] |![rooDevil][rooDevil]
+<img src="roo's/rooDerp.png" width="128" height="128"> |<img src="roo's/rooDerpMas.png" width="128" height="128"> |<img src="roo's/rooDevil.png" width="128" height="128">
 **rooDolph** |**rooDuck** |**rooDuckCry**
-![rooDolph][rooDolph] |![rooDuck][rooDuck] |![rooDuckCry][rooDuckCry]
+<img src="roo's/rooDolph.png" width="128" height="128"> |<img src="roo's/rooDuck.png" width="128" height="128"> |<img src="roo's/rooDuckCry.png" width="128" height="128">
 **rooDuckGhost** |**rooDuckGun** |**rooDuckHappySip**
-![rooDuckGhost][rooDuckGhost] |![rooDuckGun][rooDuckGun] |![rooDuckHappySip][rooDuckHappySip]
+<img src="roo's/rooDuckGhost.png" width="128" height="128"> |<img src="roo's/rooDuckGun.png" width="128" height="128"> |<img src="roo's/rooDuckHappySip.png" width="128" height="128">
 **rooDuckKMS** |**rooDuckRoo** |**rooDuckSip**
-![rooDuckKMS][rooDuckKMS] |![rooDuckRoo][rooDuckRoo] |![rooDuckSip][rooDuckSip]
+<img src="roo's/rooDuckKMS.png" width="128" height="128"> |<img src="roo's/rooDuckRoo.png" width="128" height="128"> |<img src="roo's/rooDuckSip.png" width="128" height="128">
 **rooDuckSword** |**rooEatDaCrayon** |**rooExpressionless**
-![rooDuckSword][rooDuckSword] |![rooEatDaCrayon][rooEatDaCrayon] |![rooExpressionless][rooExpressionless]
+<img src="roo's/rooDuckSword.png" width="128" height="128"> |<img src="roo's/rooEatDaCrayon.png" width="128" height="128"> |<img src="roo's/rooExpressionless.png" width="128" height="128">
 **rooExpressionless2** |**rooFat** |**rooFatMas**
-![rooExpressionless2][rooExpressionless2] |![rooFat][rooFat] |![rooFatMas][rooFatMas]
+<img src="roo's/rooExpressionless2.png" width="128" height="128"> |<img src="roo's/rooFat.png" width="128" height="128"> |<img src="roo's/rooFatMas.png" width="128" height="128">
 **rooFight** |**rooGay** |**rooGhost**
-![rooFight][rooFight] |![rooGay][rooGay] |![rooGhost][rooGhost]
+<img src="roo's/rooFight.png" width="128" height="128"> |<img src="roo's/rooGay.png" width="128" height="128"> |<img src="roo's/rooGhost.png" width="128" height="128">
 **rooGold** |**rooHappy** |**rooHappy2**
-![rooGold][rooGold] |![rooHappy][rooHappy] |![rooHappy2][rooHappy2]
+<img src="roo's/rooGold.png" width="128" height="128"> |<img src="roo's/rooHappy.png" width="128" height="128"> |<img src="roo's/rooHappy2.png" width="128" height="128">
 **rooHappy3** |**rooHyperSIP** |**rooLove**
-![rooHappy3][rooHappy3] |![rooHyperSIP][rooHyperSIP] |![rooLove][rooLove]
+<img src="roo's/rooHappy3.png" width="128" height="128"> |<img src="roo's/rooHyperSIP.png" width="128" height="128"> |<img src="roo's/rooLove.png" width="128" height="128">
 **rooMagic** |**rooMerica** |**rooMoney**
-![rooMagic][rooMagic] |![rooMerica][rooMerica] |![rooMoney][rooMoney]
+<img src="roo's/rooMagic.png" width="128" height="128"> |<img src="roo's/rooMerica.png" width="128" height="128"> |<img src="roo's/rooMoney.png" width="128" height="128">
 **rooNudes** |**rooPirate** |**rooPog**
-![rooNudes][rooNudes] |![rooPirate][rooPirate] |![rooPog][rooPog]
+<img src="roo's/rooNudes.png" width="128" height="128"> |<img src="roo's/rooPirate.png" width="128" height="128"> |<img src="roo's/rooPog.png" width="128" height="128">
 **rooPopcorn** |**rooPopcorn2** |**rooPresent**
-![rooPopcorn][rooPopcorn] |![rooPopcorn2][rooPopcorn2] |![rooPresent][rooPresent]
+<img src="roo's/rooPopcorn.png" width="128" height="128"> |<img src="roo's/rooPopcorn2.png" width="128" height="128"> |<img src="roo's/rooPresent.png" width="128" height="128">
 **rooPropeller** |**rooRage** |**rooReaper**
-![rooPropeller][rooPropeller] |![rooRage][rooRage] |![rooReaper][rooReaper]
+<img src="roo's/rooPropeller.png" width="128" height="128"> |<img src="roo's/rooRage.png" width="128" height="128"> |<img src="roo's/rooReaper.png" width="128" height="128">
 **rooRee** |**rooRich** |**rooSad**
-![rooRee][rooRee] |![rooRich][rooRich] |![rooSad][rooSad]
+<img src="roo's/rooRee.png" width="128" height="128"> |<img src="roo's/rooRich.png" width="128" height="128"> |<img src="roo's/rooSad.png" width="128" height="128">
 **rooSadMas** |**rooSaw** |**rooScared**
-![rooSadMas][rooSadMas] |![rooSaw][rooSaw] |![rooScared][rooScared]
+<img src="roo's/rooSadMas.png" width="128" height="128"> |<img src="roo's/rooSaw.png" width="128" height="128"> |<img src="roo's/rooScared.png" width="128" height="128">
 **rooScientist** |**rooScotland** |**rooShades**
-![rooScientist][rooScientist] |![rooScotland][rooScotland] |![rooShades][rooShades]
+<img src="roo's/rooScientist.png" width="128" height="128"> |<img src="roo's/rooScotland.png" width="128" height="128"> |<img src="roo's/rooShades.png" width="128" height="128">
 **rooSip** |**rooSleep** |**rooThink**
-![rooSip][rooSip] |![rooSleep][rooSleep] |![rooThink][rooThink]
+<img src="roo's/rooSip.png" width="128" height="128"> |<img src="roo's/rooSleep.png" width="128" height="128"> |<img src="roo's/rooThink.png" width="128" height="128">
 **rooThinkMas** |**rooTiger** |**rooTimeout**
-![rooThinkMas][rooThinkMas] |![rooTiger][rooTiger] |![rooTimeout][rooTimeout]
+<img src="roo's/rooThinkMas.png" width="128" height="128"> |<img src="roo's/rooTiger.png" width="128" height="128"> |<img src="roo's/rooTimeout.png" width="128" height="128">
 **rooVamp** |**rooVroom** |**rooWhale**
-![rooVamp][rooVamp] |![rooVroom][rooVroom] |![rooWhale][rooWhale]
+<img src="roo's/rooVamp.png" width="128" height="128"> |<img src="roo's/rooVroom.png" width="128" height="128"> |<img src="roo's/rooWhale.png" width="128" height="128">
 **rooWhale2** |**rooWhine** |**rooWizard**
-![rooWhale2][rooWhale2] |![rooWhine][rooWhine] |![rooWizard][rooWizard]
+<img src="roo's/rooWhale2.png" width="128" height="128"> |<img src="roo's/rooWhine.png" width="128" height="128"> |<img src="roo's/rooWizard.png" width="128" height="128">
 **rooWow** |**rooWut** |**rooWutMas**
-![rooWow][rooWow] |![rooWut][rooWut] |![rooWutMas][rooWutMas]
+<img src="roo's/rooWow.png" width="128" height="128"> |<img src="roo's/rooWut.png" width="128" height="128"> |<img src="roo's/rooWutMas.png" width="128" height="128">
 **rooXmas** |**rooXmas2** |**rooYoshi**
-![rooXmas][rooXmas] |![rooXmas2][rooXmas2] |![rooYoshi][rooYoshi]
-
-
-
-[rooAngel]: roo's/rooAngel.png
-[rooAngel2]: roo's/rooAngel2.png
-[rooAww]: roo's/rooAww.png
-[rooAwwMas]: roo's/rooAwwMas.png
-[rooBlank]: roo's/rooBlank.png
-[rooBlind]: roo's/rooBlind.png
-[rooBlindMas]: roo's/rooBlindMas.png
-[rooBot]: roo's/rooBot.png
-[rooBully]: roo's/rooBully.png
-[rooBye]: roo's/rooBye.png
-[rooComfy]: roo's/rooComfy.png
-[rooConductor]: roo's/rooConductor.png
-[rooCookieMas]: roo's/rooCookieMas.png
-[rooCool]: roo's/rooCool.png
-[rooCoolPopcorn]: roo's/rooCoolPopcorn.png
-[rooCop]: roo's/rooCop.png
-[rooCry]: roo's/rooCry.png
-[rooDab]: roo's/rooDab.png
-[rooDerp]: roo's/rooDerp.png
-[rooDerpMas]: roo's/rooDerpMas.png
-[rooDevil]: roo's/rooDevil.png
-[rooDolph]: roo's/rooDolph.png
-[rooDuck]: roo's/rooDuck.png
-[rooDuckCry]: roo's/rooDuckCry.png
-[rooDuckGhost]: roo's/rooDuckGhost.png
-[rooDuckGun]: roo's/rooDuckGun.png
-[rooDuckHappySip]: roo's/rooDuckHappySip.png
-[rooDuckKMS]: roo's/rooDuckKMS.png
-[rooDuckRoo]: roo's/rooDuckRoo.png
-[rooDuckSip]: roo's/rooDuckSip.png
-[rooDuckSword]: roo's/rooDuckSword.png
-[rooEatDaCrayon]: roo's/rooEatDaCrayon.png
-[rooExpressionless]: roo's/rooExpressionless.png
-[rooExpressionless2]: roo's/rooExpressionless2.png
-[rooFat]: roo's/rooFat.png
-[rooFatMas]: roo's/rooFatMas.png
-[rooFight]: roo's/rooFight.png
-[rooGay]: roo's/rooGay.png
-[rooGhost]: roo's/rooGhost.png
-[rooGold]: roo's/rooGold.png
-[rooHappy]: roo's/rooHappy.png
-[rooHappy2]: roo's/rooHappy2.png
-[rooHappy3]: roo's/rooHappy3.png
-[rooHyperSIP]: roo's/rooHyperSIP.png
-[rooLove]: roo's/rooLove.png
-[rooMagic]: roo's/rooMagic.png
-[rooMerica]: roo's/rooMerica.png
-[rooMoney]: roo's/rooMoney.png
-[rooNudes]: roo's/rooNudes.png
-[rooPirate]: roo's/rooPirate.png
-[rooPog]: roo's/rooPog.png
-[rooPopcorn]: roo's/rooPopcorn.png
-[rooPopcorn2]: roo's/rooPopcorn2.png
-[rooPresent]: roo's/rooPresent.png
-[rooPropeller]: roo's/rooPropeller.png
-[rooRage]: roo's/rooRage.png
-[rooReaper]: roo's/rooReaper.png
-[rooRee]: roo's/rooRee.png
-[rooRich]: roo's/rooRich.png
-[rooSad]: roo's/rooSad.png
-[rooSadMas]: roo's/rooSadMas.png
-[rooSaw]: roo's/rooSaw.png
-[rooScared]: roo's/rooScared.png
-[rooScientist]: roo's/rooScientist.png
-[rooScotland]: roo's/rooScotland.png
-[rooShades]: roo's/rooShades.png
-[rooSip]: roo's/rooSip.png
-[rooSleep]: roo's/rooSleep.png
-[rooThink]: roo's/rooThink.png
-[rooThinkMas]: roo's/rooThinkMas.png
-[rooTiger]: roo's/rooTiger.png
-[rooTimeout]: roo's/rooTimeout.png
-[rooVamp]: roo's/rooVamp.png
-[rooVroom]: roo's/rooVroom.png
-[rooWhale]: roo's/rooWhale.png
-[rooWhale2]: roo's/rooWhale2.png
-[rooWhine]: roo's/rooWhine.png
-[rooWizard]: roo's/rooWizard.png
-[rooWow]: roo's/rooWow.png
-[rooWut]: roo's/rooWut.png
-[rooWutMas]: roo's/rooWutMas.png
-[rooXmas]: roo's/rooXmas.png
-[rooXmas2]: roo's/rooXmas2.png
-[rooYoshi]: roo's/rooYoshi.png
+<img src="roo's/rooXmas.png" width="128" height="128"> |<img src="roo's/rooXmas2.png" width="128" height="128"> |<img src="roo's/rooYoshi.png" width="128" height="128">
