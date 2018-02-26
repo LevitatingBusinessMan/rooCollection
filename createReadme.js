@@ -1,21 +1,23 @@
 //Requires FS-EXTRA !
 const fs = require('fs-extra');
-const repo = "https://github.com/Gamerein/rooCollection/tree/master/roo's/";
 const filename = 'README.md';
 
 fs.readdir("./roo's").then(roos => {
 	console.log('Found ' + roos.length + ' roos!');
-	let file = "Reins | Roo | Collection \n" + "--- | --- | --- \n";
+	let file = "";
 	let refs = '';
+	
 	let pos = 1;
+	let first = true;
+	let headerRow = '';
+	let imagesRow = '';
 	roos.forEach(rooFile => {
-		let url = repo + rooFile + '?raw=true';
 		let roo = rooFile.split('.')[0];
-		file += '![' + roo + '][' + roo + ']' + (pos == 3 ? '\n' : ' |');
-		//refs += '[' + roo + ']: ' + url + '\n';
+		headerRow += '**' + roo + '**' + (pos == 3 ? '\n' : ' |');
+		imagesRow += '![' + roo + '][' + roo + ']' + (pos == 3 ? '\n' : ' |');
 		refs += '[' + roo + ']: roo\'s/' + rooFile + '\n';
-		if (pos != 3) pos++;
-		else pos = 1;
+		if (pos != 3) pos++; 
+		else {pos = 1; file += headerRow + (first ? '--- | --- | --- \n'  : '') + imagesRow; first = false; headerRow = ''; imagesRow = '';}
 	});
 	file += '\n\n\n' + refs
 	fs.writeFile(filename, file, (err) => {
