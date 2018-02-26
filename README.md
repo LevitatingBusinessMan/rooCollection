@@ -31,7 +31,7 @@ Reins | Roo | Collection
 
 
 
-undefined[rooAngel]: roo's/rooAngel.png
+[rooAngel]: roo's/rooAngel.png
 [rooAngel2]: roo's/rooAngel2.png
 [rooAww]: roo's/rooAww.png
 [rooAwwMas]: roo's/rooAwwMas.png
