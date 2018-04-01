@@ -66,7 +66,7 @@
 **rooScared2** |**rooScientist** |**rooScotland**
 <img src="roo's/rooScared2.png" width="128" height="128"> |<img src="roo's/rooScientist.png" width="128" height="128"> |<img src="roo's/rooScotland.png" width="128" height="128">
 **rooSellout** |**rooShades** |**rooShrug**
-<img src="roo's/rooSellout" width="128" height="128"> |<img src="roo's/rooShades.png" width="128" height="128"> |<img src="roo's/rooShrug.png" width="128" height="128">
+<img src="roo's/rooSellout.png" width="128" height="128"> |<img src="roo's/rooShades.png" width="128" height="128"> |<img src="roo's/rooShrug.png" width="128" height="128">
 **rooShy** |**rooSip** |**rooSip2**
 <img src="roo's/rooShy.png" width="128" height="128"> |<img src="roo's/rooSip.png" width="128" height="128"> |<img src="roo's/rooSip2.png" width="128" height="128">
 **rooSleep** |**rooSmug** |**rooThink**
