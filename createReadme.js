@@ -1,5 +1,5 @@
 //Requires FS-EXTRA !
-const fs = require('fs-extra');
+const fs = require('fs');
 const filename = 'README.md';
 
 fs.readdir("./roo's").then(roos => {
